@@ -4,6 +4,7 @@
 - 💞️ No estoy colaborando con nadie (por ahora)
 - 📫 Contacto:
 - Discord: darkbladerp
+- Gmail: darkbladedev@gmail.com
 
 <!---
 DarkBladeDev/DarkBladeDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
