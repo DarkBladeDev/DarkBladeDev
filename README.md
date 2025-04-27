@@ -45,7 +45,7 @@ I am always eager to learn new technologies, refine my skills, and take on chall
       <b>Virtha-Events</b><br/>
       <a href="#" target="_blank">Polymart</a> |
       <a href="https://github.com/VIRTHA/VIRTHA-Events">GitHub</a><br/>
-      <img alt="Work In Progress" src="https://img.shields.io/badge/Status-Developing-orange?style=flat"> |
+      <img alt="Work In Progress" src="https://img.shields.io/badge/Status-Developing-orange?style=flat">
       <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/VIRTHA/VIRTHA-Events/maven.yml">
     </td>
   </tr>
