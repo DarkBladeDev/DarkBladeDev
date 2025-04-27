@@ -19,4 +19,7 @@ I am always eager to learn new technologies, refine my skills, and take on chall
 # Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,java,maven,python,postgres&perline=3" />
+  <p align="center">(Git, Github, Java, Maven, Python, PostgresSQL)</p>
 </p>
+
+# Contact me
