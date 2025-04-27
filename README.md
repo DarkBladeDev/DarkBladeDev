@@ -23,3 +23,5 @@ I am always eager to learn new technologies, refine my skills, and take on chall
 </p>
 
 # Contact me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darkbladedev@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/835986372594630706)
