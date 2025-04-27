@@ -31,21 +31,22 @@ I am always eager to learn new technologies, refine my skills, and take on chall
       <b>Debuggy</b><br/>
       <a href="https://polymart.org/product/7331/debuggy" target="_blank">Polymart</a> |
       <a href="#">GitHub</a><br/>
-      <a href="#"><img alt="Published" src="https://img.shields.io/badge/Status-Published-green?style=flat">
+      <img alt="Published" src="https://img.shields.io/badge/Status-Published-green?style=flat">
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/8a8213de-b553-414a-bd21-b5f3f168d7f8" width="200px" height="200px"><br/>
       <b>BellionPoints</b><br/>
       <a href="#" target="_blank">Polymart</a> |
       <a href="#">GitHub</a><br/>
-      <a href="#"><img alt="Work In Progress" src="https://img.shields.io/badge/Status-Developing-orange?style=flat">
+      <img alt="Work In Progress" src="https://img.shields.io/badge/Status-Developing-orange?style=flat">
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/cfd98e61-86ab-4a45-aac0-7a673d7ae8b0" width="200px" height="200px"></br/>
       <b>Virtha-Events</b><br/>
       <a href="#" target="_blank">Polymart</a> |
       <a href="https://github.com/VIRTHA/VIRTHA-Events">GitHub</a><br/>
-      <a href="#"><img alt="Work In Progress" src="https://img.shields.io/badge/Status-Developing-orange?style=flat">
+      <img alt="Work In Progress" src="https://img.shields.io/badge/Status-Developing-orange?style=flat"> |
+      <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/VIRTHA/VIRTHA-Events/maven.yml">
     </td>
   </tr>
 </table>
