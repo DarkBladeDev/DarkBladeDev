@@ -22,32 +22,30 @@ I am always eager to learn new technologies, refine my skills, and take on chall
   <p align="center">(Git, Github, Java, Maven, Python, PostgresSQL)</p>
 </p>
 
-# Main projects
-<p align="center">
-    <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
-</p>
+# Main Projects
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
-
-  <div style="background-color: #222; border-radius: 10px; overflow: hidden; text-align: center; padding-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
-    <img style="height: 200px; width: 200px" src="https://github.com/user-attachments/assets/47983821-ee24-402c-be5c-db67b5fcb9ba" alt="Debuggy">
-    <p>Debuggy</p>
-    <div style="margin-top: 10px;">
-      <a href="https://polymart.org/product/7331/debuggy" target="_blank" style="display: inline-block; margin: 5px; padding: 10px 15px; border-radius: 5px; background-color: red; color: white; text-decoration: none; font-weight: bold;">Polymart</a>
-      <a href="#" target="_blank" style="display: inline-block; margin: 5px; padding: 10px 15px; border-radius: 5px; background-color: #333; color: white; text-decoration: none; font-weight: bold;">GitHub</a>
-    </div>
-  </div>
-
-  <div style="background-color: #222; border-radius: 10px; overflow: hidden; text-align: center; padding-bottom: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
-    <img style="height: 200px; width: 200px" src="https://github.com/user-attachments/assets/8a8213de-b553-414a-bd21-b5f3f168d7f8" alt="BellionPoints">
-    <p>BellionPoints</p>
-    <div style="margin-top: 10px;">
-      <a href="#" target="_blank" style="display: inline-block; margin: 5px; padding: 10px 15px; border-radius: 5px; background-color: red; color: white; text-decoration: none; font-weight: bold;">Polymart</a>
-      <a href="#" target="_blank" style="display: inline-block; margin: 5px; padding: 10px 15px; border-radius: 5px; background-color: #333; color: white; text-decoration: none; font-weight: bold;">GitHub</a>
-      </div>
-    </div>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/47983821-ee24-402c-be5c-db67b5fcb9ba" width="200px" height="200px"><br/>
+      <b>Debuggy</b><br/>
+      <a href="https://polymart.org/product/7331/debuggy" target="_blank">Polymart</a> |
+      <a href="#">GitHub</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/8a8213de-b553-414a-bd21-b5f3f168d7f8" width="200px" height="200px"><br/>
+      <b>BellionPoints</b><br/>
+      <a href="#" target="_blank">Polymart</a> |
+      <a href="#">GitHub</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/cfd98e61-86ab-4a45-aac0-7a673d7ae8b0" width="200px" height="200px"></br/>
+      <b>Virtha-Events</b><br/>
+      <a href="#" target="_blank">Polymart</a> |
+      <a href="https://github.com/VIRTHA/VIRTHA-Events">GitHub</a>
+    </td>
+  </tr>
+</table>
 
 
 # Contact me
