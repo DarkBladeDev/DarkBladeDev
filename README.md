@@ -22,6 +22,12 @@ I am always eager to learn new technologies, refine my skills, and take on chall
   <p align="center">(Git, Github, Java, Maven, Python, PostgresSQL)</p>
 </p>
 
+# Main projects
+<p align="center">
+  <a href=""><img src="https://github.com/user-attachments/assets/35627d19-cda2-4296-af11-5c75e1e41d0e">
+    <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
+</p>
+
 # Contact me
 <p align="center">
   <a href="mailto:darkbladedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
