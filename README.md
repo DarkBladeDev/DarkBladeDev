@@ -5,6 +5,12 @@
 ![Banner](https://github.com/user-attachments/assets/da80ddbf-0e5e-4647-b576-b302843622f1)
 
 # About me
+My name is Antuan, also known as DarkBladeDev. I am a 17-year-old backend developer with a strong focus on building Minecraft networks and developing custom plugins.
+
+I specialize in creating efficient, scalable backend systems that enhance multiplayer experiences. My work is dedicated to improving server performance, creating innovative gameplay features, and ensuring high-quality, reliable solutions for Minecraft communities.
+
+I am always eager to learn new technologies, refine my skills, and take on challenging projects. Thank you for visiting my profile — I look forward to sharing my journey with you!
+
 
 
 # My Stats
