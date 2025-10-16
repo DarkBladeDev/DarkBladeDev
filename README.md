@@ -33,12 +33,6 @@ I am always eager to learn new technologies, refine my skills, and take on chall
       <a href="#">GitHub</a><br/>
       <img alt="Published" src="https://img.shields.io/badge/Status-Published-green?style=flat">
     </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/e3528fd9-2453-451e-9fab-03799c16e899" width="220px" height="250px"></br/>
-      <b>Winterfall</b><br/>
-      <a href="#" target="_blank">Polymart</a> |
-      <a href="https://github.com/DarkBladeDev/TheWinterfallProject">GitHub</a><br/>
-      <img alt="Work In Progress" src="https://img.shields.io/badge/Status-Developing-orange?style=flat">
       <!--
       <a href="https://github.com/VIRTHA/VIRTHA-Events/releases"><img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/VIRTHA/VIRTHA-Events/maven.yml">
       -->
