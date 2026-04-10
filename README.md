@@ -14,7 +14,9 @@ I am always eager to learn new technologies, refine my skills, and take on chall
 
 
 # My Stats
-![DarkBladeDev stats](https://github-readme-stats.vercel.app/api?username=DarkBladeDev&show_icons=true&theme=tokyonight)
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DarkBladeDev&theme=cobalt&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=210" alt="GitHub Streak" /></a>
+</p>
 
 # Stack
 <p align="center">
@@ -30,12 +32,13 @@ I am always eager to learn new technologies, refine my skills, and take on chall
       <img src="https://github.com/user-attachments/assets/47983821-ee24-402c-be5c-db67b5fcb9ba" width="200px" height="200px"><br/>
       <b>Debuggy</b><br/>
       <a href="https://polymart.org/product/7331/debuggy" target="_blank">Polymart</a> |
-      <a href="#">GitHub</a><br/>
-      <img alt="Published" src="https://img.shields.io/badge/Status-Published-green?style=flat">
+      <a href="https://github.com/DarkBladeDev/Debuggy" target="_blank">GitHub</a><br/>
     </td>
-      <!--
-      <a href="https://github.com/VIRTHA/VIRTHA-Events/releases"><img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/VIRTHA/VIRTHA-Events/maven.yml">
-      -->
+    <td align="center">
+      <img width="200px" height="200px" src="https://github.com/user-attachments/assets/108262af-342a-49a1-8fe4-1f3b1f5127ab" /><br/>
+      <b>MultiblockEngine</b><br/>
+      <a href="https://modrinth.com/plugin/mbe" target="_blank">Modrinth</a> |
+      <a href="https://github.com/Parallax-Development/MultiBlockEngine" target="_blank">Github</a><br>
     </td>
   </tr>
 </table>
