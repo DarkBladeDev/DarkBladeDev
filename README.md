@@ -29,15 +29,15 @@ I am always eager to learn new technologies, refine my skills, and take on chall
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/47983821-ee24-402c-be5c-db67b5fcb9ba" width="200px" height="200px"><br/>
-      <b>Debuggy</b><br/>
-      <a href="https://polymart.org/product/7331/debuggy" target="_blank">Polymart</a> |
-      <a href="https://github.com/DarkBladeDev/Debuggy" target="_blank">GitHub</a><br/>
+      <img src="assets/images/datalens-logo.png" width="200px" height="200px"><br/>
+      <b>DataLens</b><br/>
+      <a href="https://modrinth.com/plugin/datalens" target="_blank">Download</a> |
+      <a href="https://github.com/Parallax-Development/DataLens" target="_blank">GitHub</a><br/>
     </td>
     <td align="center">
-      <img width="200px" height="200px" src="https://github.com/user-attachments/assets/108262af-342a-49a1-8fe4-1f3b1f5127ab" /><br/>
+      <img width="200px" height="200px" src="assets/images/mbe-logo.png" /><br/>
       <b>MultiblockEngine</b><br/>
-      <a href="https://modrinth.com/plugin/mbe" target="_blank">Modrinth</a> |
+      <a href="https://modrinth.com/plugin/mbe" target="_blank">Download</a> |
       <a href="https://github.com/Parallax-Development/MultiBlockEngine" target="_blank">Github</a><br>
     </td>
   </tr>
