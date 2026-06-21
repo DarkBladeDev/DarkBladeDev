@@ -43,7 +43,7 @@ I am always eager to learn new technologies, refine my skills, and take on chall
     <td align="center">
       <img width="200px" height="200px" src="assets/images/InputEngine-logo.png" /><br/>
       <b>InputEngine</b><br/>
-      <a href="https://modrinth.com/plugin/input-engine" target="_blank">Download</a> |
+      <a href="https://modrinth.com/plugin/inputengine" target="_blank">Download</a> |
       <a href="https://github.com/DarkBladeDev/InputEngine" target="_blank">Github</a><br>
     </td>
   </tr>
